@@ -1,0 +1,21 @@
+{
+  "name": "retalim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googlebaba01/Task1_whatsapp-ai-mern-postgres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/googlebaba01/Task1_whatsapp-ai-mern-postgres/issues"
+  },
+  "homepage": "https://github.com/googlebaba01/Task1_whatsapp-ai-mern-postgres#readme"
+}
